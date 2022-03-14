@@ -11,6 +11,7 @@ namespace nov_repozitorij
         static void Main(string[] args)
         {
             Console.WriteLine("sprememba");
+            Console.WriteLine("druga sprememba");
         }
     }
 }
